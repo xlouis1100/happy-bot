@@ -13,7 +13,7 @@ var interval = setInterval (function () {
 }, 300000);
 
 });
-client1.login(process.env.S1);
+client1.login(process.env.D1);
 
 const client2 = new Discord.Client();
 client2.on("ready", () => {
@@ -28,7 +28,7 @@ var interval = setInterval (function () {
 
 
 });
-client2.login(process.env.S2);
+client2.login(process.env.D2);
 
 const client3 = new Discord.Client();
 client3.on("ready", () => {
@@ -43,7 +43,7 @@ var interval = setInterval (function () {
 
 
 });
-client3.login(process.env.S3);
+client3.login(process.env.D3);
 
 const client4 = new Discord.Client();
 client4.on("ready", () => {
@@ -58,7 +58,7 @@ var interval = setInterval (function () {
 
 
 });
-client4.login(process.env.S4);
+client4.login(process.env.D4);
 
 
 const client5 = new Discord.Client();
@@ -73,7 +73,7 @@ var interval = setInterval (function () {
 
 
 });
-client5.login(process.env.S5);
+client5.login(process.env.D5);
 
 const client6 = new Discord.Client();
 client6.on("ready", () => {
@@ -88,7 +88,7 @@ var interval = setInterval (function () {
 
 
 });
-client6.login(process.env.S6);
+client6.login(process.env.D6);
 
 const client7 = new Discord.Client();
 client7.on("ready", () => {
@@ -103,7 +103,7 @@ var interval = setInterval (function () {
 
 
 });
-client7.login(process.env.S7);
+client7.login(process.env.D7);
 
 const client8 = new Discord.Client();
 client8.on("ready", () => {
@@ -117,7 +117,7 @@ var interval = setInterval (function () {
 
 
 });
-client8.login(process.env.S8);
+client8.login(process.env.D8);
 
 const client9 = new Discord.Client();
 client9.on("ready", () => {
@@ -131,7 +131,7 @@ var interval = setInterval (function () {
 
 
 });
-client9.login(process.env.S9);
+client9.login(process.env.D9);
 
 const client10 = new Discord.Client();
 client10.on("ready", () => {
@@ -145,7 +145,7 @@ var interval = setInterval (function () {
 
 
 });
-client10.login(process.env.S10);
+client10.login(process.env.D10);
 
 const client11 = new Discord.Client();
 client11.on("ready", () => {
@@ -158,7 +158,7 @@ var interval = setInterval (function () {
 
 
 });
-client11.login(process.env.S11);
+client11.login(process.env.D11);
 
 const client12 = new Discord.Client();
 client12.on("ready", () => {
@@ -173,7 +173,7 @@ var interval = setInterval (function () {
 
 
 });
-client12.login(process.env.S12);
+client12.login(process.env.D12);
 
 const client13 = new Discord.Client();
 client13.on("ready", () => {
@@ -188,7 +188,7 @@ var interval = setInterval (function () {
 
 
 });
-client13.login(process.env.S13);
+client13.login(process.env.D13);
 
 const client14 = new Discord.Client();
 client14.on("ready", () => {
@@ -202,7 +202,7 @@ var interval = setInterval (function () {
 
 
 });
-client14.login(process.env.S14);
+client14.login(process.env.D14);
 
 const client15 = new Discord.Client();
 client15.on("ready", () => {
@@ -217,7 +217,7 @@ var interval = setInterval (function () {
 
 
 });
-client15.login(process.env.S15);
+client15.login(process.env.D15);
 
 const client16 = new Discord.Client();
 client16.on("ready", () => {
@@ -232,7 +232,7 @@ var interval = setInterval (function () {
 
 
 });
-client16.login(process.env.S16);
+client16.login(process.env.D16);
 
 const client17 = new Discord.Client();
 client17.on("ready", () => {
@@ -247,7 +247,7 @@ var interval = setInterval (function () {
 
 
 });
-client17.login(process.env.S17);
+client17.login(process.env.D17);
 
 const client18 = new Discord.Client();
 client18.on("ready", () => {
@@ -262,7 +262,7 @@ var interval = setInterval (function () {
 
 
 });
-client18.login(process.env.S18);
+client18.login(process.env.D18);
 
 const client19 = new Discord.Client();
 client19.on("ready", () => {
@@ -277,7 +277,7 @@ var interval = setInterval (function () {
 
 
 });
-client19.login(process.env.S19);
+client19.login(process.env.D19);
 
 const client20 = new Discord.Client();
 client20.on("ready", () => {
@@ -292,5 +292,5 @@ var interval = setInterval (function () {
 
 
 });
-client20.login(process.env.S20);
+client20.login(process.env.D20);
 
